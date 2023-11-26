@@ -1,0 +1,480 @@
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.exe
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.deps.json
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.json
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.runtimeconfig.dev.json
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.API.pdb
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Manifest.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\StudentCrud.API.StaticWebAssets.Pack.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StudentCrud.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StudentCrud.API.props
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.RazorTargetAssemblyInfo.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.csproj.CopyComplete
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.API\StudentCrud.API\obj\Debug\netcoreapp3.1\StudentCrud.API.genruntimeconfig.cache

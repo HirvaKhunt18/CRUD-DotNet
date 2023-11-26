@@ -1,0 +1,203 @@
+﻿@model Student
+
+<div class="row">
+    <div class="col-8">
+        <h1>@ViewBag.title</h1>
+    </div>
+</div>
+
+<br />
+<form asp-action="Create" asp-controller="Student" method="Post" enctype="multipart/form-data">
+    <div class="form-group">
+        <input type="hidden" asp-for="StudentId" />
+        <div class="form-group">
+            <label asp-for="FirstName">First Name:</label>
+            <input asp-for="FirstName" type="text"  class="form-control col-8" id="FirstName" name="FirstName"    />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName">Last Name:</label>
+            <input asp-for="LastName" type="text" class="form-control col-8" id="LastName" name="LastName" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" type="email" class="form-control col-8" id="email" name="Email"    />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="StateId">State:</label>
+            <select asp-for="StateId" class="form-control col-8" id="stateDropdown">
+                <option value="">--Select State--</option>
+                @foreach (var state in ViewBag.States)
+                {
+                    <option value="@state.StateId">@state.StateName</option>
+                }
+            </select>
+            <span asp-validation-for="StateId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="CityId">City:</label>
+            <select asp-for="CityId" class="form-control col-8" id="cityDropdown">
+                <option value="">--Select a city--</option>
+                @if (Model.StudentId > 0)
+                {
+                    @foreach (var city in ViewBag.SelectedCities)
+                    {
+                        <option value="@city.CityId" select="@(city.CityId == Model.CityId ? "selected" : "")">@city.CityName</option>
+                    }
+                }
+            </select>
+            <span asp-validation-for="CityId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="HobbiesId">Hobbies:</label>
+            @if (Model.StudentId > 0)
+            {
+                @foreach (var hobby in ViewBag.SelectedHobbies)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" name="Hobbies" value="@hobby.HobbyId" @(hobby.IsChecked ? "checked" : "")>
+                        <label class="form-check-label" for="hobby_@hobby.HobbyId">@hobby.HobbyName</label>
+                    </div>
+                }
+            }
+            else
+            {
+                @foreach (var hobby in ViewBag.Hobbies)
+                {
+                    <div class="form-check">
+                        <input type="checkbox" name="Hobbies" value="@hobby.HobbyId" />
+                        <label for="Hobbies_@hobby.HobbyId">@hobby.HobbyName</label>
+                    </div>
+                }
+            }
+            <span for="HobbiesId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label>Gender:</label>
+            <div class="row">
+                <div class="col-lg-1 col-sm-12">
+                    <div class="form-check">
+                        <input asp-for="Gender" class="form-check-input" type="radio" name="Gender" id="male" value="M" checked="checked">
+                        <label asp-for="Gender" class="form-check-label" value="M">Male</label>
+                    </div>
+                </div>
+                <div class="col-lg-1 col-sm-12">
+                    <div class="form-check">
+                        <input asp-for="Gender" class="form-check-input" type="radio" name="Gender" id="female" value="F">
+                        <label asp-for="Gender" class="form-check-label" value="F">Female</label>
+                    </div>
+                </div>
+                <br />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber">Phone Number:</label>
+            <input asp-for="PhoneNumber" type="number" class="form-control col-8" id="PhoneNumber" name="PhoneNumber">
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Address">Address:</label>
+            <textarea asp-for="Address" class="form-control col-8" id="Address" name="Address" rows="3"></textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="DateOfBirth">Date of Birth:</label>
+            <input asp-for="DateOfBirth" type="date" class="form-control col-8" id="dob" name="DateOfBirth"  />
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ProfileImage">Profile Image:</label>
+            <img style="width:70px;height:70px;" id="previewImage" src="/images/@Model.ProfileImage"  />
+            <div class="custom-file">
+                <input asp-for="ImageFile" id="ImageFile" class="form-control custom-file-input col-8" />
+                <label class="custom-file-label col-8"></label>
+                <input type="hidden" name="ProfileImage" value="@Model.ProfileImage" />
+            </div>
+            <span for="ProfileImage" id="imgval" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary" id="submit">@ViewBag.button</button>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</form>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+
+        $(document).ready(function () {
+
+            // VALIDATION FOR HOBBIES AND IMAGE
+            $("form").submit(function (e) {
+                if ($("input[name='Hobbies']:checked").length === 0) {
+                    e.preventDefault();
+                    $("span[for='HobbiesId']").text("*Please select at least one hobby.");
+                }
+                if ($("#ImageFile").val() === '' && $("input[value='@Model.ProfileImage']").val() === '') {
+                    e.preventDefault();
+                    $("#imgval").text("*Please select Profile Image.");
+                } 
+            });
+            $("input[name='Hobbies']").on("change", function () {
+                $("span[for='HobbiesId']").text(""); 
+            });
+            $("#ImageFile").on("change", function () {
+                $("#imgval").text(""); 
+            });
+
+            //FOR IMAGE LABEL
+            $('.custom-file-input').on("change", function () {
+                var filename = $(this).val().split("\\").pop();
+                $(this).next('.custom-file-label').html(filename);
+            });
+
+            if ("@Model.ProfileImage" != "") {
+                var filename = "@Model.ProfileImage".split("_").pop();
+                $('.custom-file-label').html(filename);
+            } else {
+                $('.custom-file-label').html('Choose File');
+                $('#previewImage').attr('src', '/images/previewImg.png');
+            };
+
+            // PREVIEW OF IMAGE
+            $('#ImageFile').change(function () {
+                if (this.files && this.files[0]) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#previewImage').attr('src', e.target.result);
+                    }
+                    reader.readAsDataURL(this.files[0]);
+                } 
+            });
+
+            //CITY DROPDOWN
+            $("#stateDropdown").change(function () {
+                var StateId = $(this).val();
+                if (StateId != "") {
+                    $.ajax({
+                        type: 'GET',
+                        url: '@Url.Action("GetCities", "Student")' + '/' + StateId,
+                        data: { StateId: StateId },
+                        success: function (data) {
+                            $("#cityDropdown").empty();
+                            $("#cityDropdown").append('<option value="">-- Select City --</option>');
+                            $.each(data, function (i, city) {
+                                $("#cityDropdown").append('<option value="' + city.cityId + '">' + city.cityName + '</option>');
+                            });
+                        },
+                        error: function () {
+                            alert('Error retrieving cities.');
+                        }
+                    });
+                } else {
+                    $("#cityDropdown").empty();
+                    $("#cityDropdown").append('<option value="">-- Select City --</option>');
+                }
+            });
+        });
+    </script>
+}

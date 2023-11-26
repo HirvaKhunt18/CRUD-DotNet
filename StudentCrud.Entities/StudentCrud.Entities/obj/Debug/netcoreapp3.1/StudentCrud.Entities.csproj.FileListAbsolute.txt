@@ -1,0 +1,70 @@
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\OneDrive - rockstechlabs.com\Desktop\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\sheet\PR-7_Student_crud_demo\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+C:\Users\hirva\Downloads\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 08.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.deps.json
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\bin\Debug\netcoreapp3.1\StudentCrud.Entities.pdb
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.AssemblyReference.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfoInputs.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.AssemblyInfo.cs
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.csproj.CoreCompileInputs.cache
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.dll
+D:\Practice\PR-7_Student_crud_demo 14.06\PR-7_Student_crud_demo\StudentCrud.Entities\StudentCrud.Entities\obj\Debug\netcoreapp3.1\StudentCrud.Entities.pdb

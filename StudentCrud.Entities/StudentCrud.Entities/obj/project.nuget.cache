@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9yMVlsJF9XDTTjstIUsfWXofW1OhjeTv/CqPuIfIQBxA+UbdCMcWqOa5uk1R+bZM3rV2qg8eNAKx7pxn+w6HA==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\PR-7_Student_crud_demo 14.06\\PR-7_Student_crud_demo\\StudentCrud.Entities\\StudentCrud.Entities\\StudentCrud.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hirva\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hirva\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\hirva\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\hirva\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
